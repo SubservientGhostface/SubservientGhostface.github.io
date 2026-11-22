@@ -1,0 +1,68 @@
+{
+  "ageGate": {
+    "promptTitle": "Enter your date of birth",
+    "promptBody": "",
+    "underageTitle": "Access restricted",
+    "underageBody": "Sorry, you are not eligible.",
+    "cookiesRequiredBody": "Cookies are required to keep this age restriction in place. Please enable cookies before continuing."
+  },
+  "links": {
+    "ticketsUrl": "https://www.scarymovie.film",
+    "ticketsUrls": {
+      "us": "https://www.scarymovie.film",
+      "uk": "https://www.scarymovie.co.uk/",
+      "au": "https://www.scarymovie.com.au/",
+      "fr": "https://www.scarymovie-lefilm.fr/",
+      "nl": "https://www.scarymovie.nl/",
+      "es": "https://www.scarymovie.es/",
+      "de": "https://www.scarymoviefilm.de/",
+      "it": "https://eaglepictures.com/scary-movie",
+      "mx": "https://www.scarymovie.mx/",
+      "br": "https://movieid.com/todomundoempanico"
+    },
+    "ticketsLabel": "TICKETS"
+  },
+  "legal": {
+    "privacyUrl": "https://privacy.paramount.com/en/policy?r=",
+    "termsUrl": "https://reference.paramount.com/terms-of-use",
+    "footerLinks": [
+      {
+        "label": "Privacy Policy",
+        "url": "https://privacy.paramount.com/en/policy?r="
+      },
+      {
+        "label": "Terms of Use",
+        "url": "https://reference.paramount.com/terms-of-use"
+      },
+      {
+        "label": "California Notice",
+        "url": "https://privacy.paramount.com/en/policy#additional-information-us-states"
+      },
+      {
+        "label": "Your Privacy Choices",
+        "cmpControl": true
+      },
+      {
+        "label": "Film Ratings",
+        "url": "https://www.filmratings.com/"
+      },
+      {
+        "label": "MPA",
+        "url": "https://www.motionpictures.org/"
+      },
+      {
+        "label": "Scary Movie site",
+        "url": "https://www.scarymovie.film"
+      }
+    ]
+  },
+  "shareMetadata": {
+    "siteName": "Subservient Ghostface - SCARY MOVIE - In Theatres June 5",
+    "defaultTitle": "Subservient Ghostface - SCARY MOVIE - In Theatres June 5",
+    "defaultDescription": "Tell Ghostface what to do.",
+    "watermarkUrl": "https://subservientghostface.com"
+  },
+  "command": {
+    "maxLength": 50
+  }
+}

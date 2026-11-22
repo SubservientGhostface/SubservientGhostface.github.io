@@ -1,0 +1,2 @@
+const e={},t=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{t as n};
+//# sourceMappingURL=__vite-browser-external-ke9ZaMpT.js.map
